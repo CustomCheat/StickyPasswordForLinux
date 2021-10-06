@@ -1,7 +1,7 @@
 # StickyPasswordForLinux
 A simple python app for using sticky password on linux
 
-<h1>How to run</h1>
+<h1>How to run:</h1>
 <h1>Arch linux:</h1>
 <p>Open the command line:</p>
 <p>git clone https://github.com/CustomCheat/StickyPasswordForLinux.git</p>
